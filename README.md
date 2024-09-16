@@ -5,4 +5,6 @@ INSERT INTO test VALUES (1,'Mary', 22);
 
 SELECT * FROM test;
 
-*stelios
+* stelios
+
+  The code is SELECT *
